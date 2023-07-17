@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Editing_Images.entity
 {
     /* Class to contain info about every person in crew */
-    class Person
+    public class Person
     {
         /* Editing rate (1 image) / (minutes spend to edit 1 image) */
         public double Rate;
